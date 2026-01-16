@@ -1,0 +1,10 @@
+crop,safe_days,ideal_temp_c,spoilage_rate_per_day,humidity_pct,category,handling_risk,price_volatility
+Tomato,3,10,0.35,90,Highly Perishable,High,High
+Apple,30,1,0.05,85,Fruit,Low,Medium
+Potato,15,5,0.12,80,Vegetable,Medium,Low
+Onion,25,8,0.07,70,Vegetable,Low,Low
+Orange,20,4,0.08,85,Fruit,Medium,Medium
+Wheat,180,15,0.01,60,Grain,Very Low,Low
+Maize,120,18,0.02,65,Grain,Low,Medium
+Soybean,90,20,0.03,60,Oilseed,Low,Medium
+

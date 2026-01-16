@@ -1,0 +1,116 @@
+vehicle_id,type,capacity_tons,cost_per_km,co2_per_km
+1,Mini Truck,1.5,18,1.9
+2,Mini Truck,2,20,2.1
+3,Mini Truck,3,22,2.4
+4,Small Truck,4,24,2.6
+5,Small Truck,5,26,2.9
+6,Medium Truck,6,28,3.1
+7,Medium Truck,8,30,3.4
+8,Medium Truck,10,32,3.8
+9,Large Truck,12,34,4.2
+10,Large Truck,15,36,4.8
+
+11,Electric Van,2,14,0.6
+12,Electric Van,3,15,0.7
+13,Electric Van,4,16,0.8
+14,Electric Van,5,17,0.9
+15,Electric Van,6,18,1.0
+
+16,CNG Truck,4,22,1.6
+17,CNG Truck,5,23,1.7
+18,CNG Truck,6,24,1.9
+19,CNG Truck,8,26,2.1
+20,CNG Truck,10,28,2.3
+
+21,Mini Truck,1.5,17,2.0
+22,Mini Truck,2.5,21,2.2
+23,Small Truck,4,25,2.7
+24,Small Truck,5,27,2.9
+25,Medium Truck,7,29,3.3
+26,Medium Truck,9,31,3.7
+27,Large Truck,14,35,4.5
+28,Large Truck,18,38,5.2
+29,Large Truck,20,40,5.6
+30,Large Truck,25,45,6.1
+
+31,Electric Van,2.5,14,0.6
+32,Electric Van,3.5,15,0.7
+33,Electric Van,4.5,16,0.8
+34,Electric Van,5.5,17,0.9
+35,Electric Van,7,19,1.1
+
+36,CNG Truck,5,23,1.8
+37,CNG Truck,6,24,1.9
+38,CNG Truck,7,25,2.0
+39,CNG Truck,9,27,2.2
+40,CNG Truck,11,29,2.4
+
+41,Mini Truck,2,19,2.1
+42,Mini Truck,3,22,2.4
+43,Small Truck,4,24,2.7
+44,Small Truck,6,27,3.0
+45,Medium Truck,8,30,3.4
+46,Medium Truck,10,32,3.8
+47,Large Truck,16,37,4.9
+48,Large Truck,20,41,5.7
+49,Large Truck,24,44,6.3
+50,Large Truck,30,48,6.9
+
+51,Electric Van,3,15,0.7
+52,Electric Van,4,16,0.8
+53,Electric Van,6,18,1.0
+54,Electric Van,8,20,1.2
+55,Electric Van,10,22,1.4
+
+56,CNG Truck,6,24,1.9
+57,CNG Truck,8,26,2.1
+58,CNG Truck,10,28,2.3
+59,CNG Truck,12,30,2.5
+60,CNG Truck,15,33,2.8
+
+61,Mini Truck,2,18,2.0
+62,Mini Truck,3,21,2.3
+63,Small Truck,5,26,2.9
+64,Small Truck,6,28,3.1
+65,Medium Truck,8,30,3.4
+66,Medium Truck,10,32,3.8
+67,Large Truck,15,36,4.8
+68,Large Truck,20,40,5.6
+69,Large Truck,25,45,6.2
+70,Large Truck,35,52,7.5
+
+71,Electric Van,4,16,0.8
+72,Electric Van,6,18,1.0
+73,Electric Van,8,20,1.2
+74,Electric Van,10,22,1.4
+75,Electric Van,12,24,1.6
+
+76,CNG Truck,7,25,2.0
+77,CNG Truck,9,27,2.2
+78,CNG Truck,11,29,2.4
+79,CNG Truck,13,31,2.6
+80,CNG Truck,16,34,2.9
+
+81,Mini Truck,1.5,17,2.1
+82,Mini Truck,2.5,20,2.3
+83,Small Truck,4,24,2.7
+84,Small Truck,5,26,2.9
+85,Medium Truck,7,29,3.3
+86,Medium Truck,9,31,3.7
+87,Large Truck,14,35,4.6
+88,Large Truck,18,38,5.3
+89,Large Truck,22,42,6.0
+90,Large Truck,28,47,6.7
+
+91,Electric Van,3,15,0.7
+92,Electric Van,5,17,0.9
+93,Electric Van,7,19,1.1
+94,Electric Van,9,21,1.3
+95,Electric Van,12,24,1.6
+
+96,CNG Truck,8,26,2.1
+97,CNG Truck,10,28,2.3
+98,CNG Truck,12,30,2.5
+99,CNG Truck,14,32,2.7
+100,CNG Truck,18,36,3.1
+

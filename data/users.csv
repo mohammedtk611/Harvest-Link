@@ -1,0 +1,5 @@
+user_id,username,password,role,linked_id
+1,farmer1,pass123,farmer,12
+2,farmer2,pass123,farmer,45
+3,storage1,pass123,storage_owner,3
+4,admin,admin123,admin,

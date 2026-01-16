@@ -1,0 +1,121 @@
+review_id,storage_id,farmer_id,rating,comment
+1,1,12,4,Good onion storage with stable temperature
+2,1,45,5,Very reliable facility
+3,2,33,3,Decent but gets crowded
+4,2,78,4,Affordable and clean
+5,3,19,5,Excellent apple preservation
+6,3,102,4,Good humidity control
+7,4,56,5,Perfect for long-term wheat storage
+8,4,89,4,Safe and reliable
+9,5,67,4,Good soybean storage
+10,5,150,5,Very satisfied
+11,6,91,2,Tomatoes spoiled faster than expected
+12,6,44,3,Average experience
+13,7,63,4,Good onion quality
+14,7,182,5,Clean and organized
+15,8,76,5,Apples stayed fresh long
+16,8,201,4,Professional staff
+17,9,109,2,Not suitable for tomatoes
+18,9,52,3,Needs better cooling
+19,10,215,5,Best wheat storage
+20,10,33,4,Affordable and safe
+51,12,87,4,Good temperature control and staff support
+52,14,102,5,Very reliable storage facility
+53,18,65,3,Average experience but acceptable
+54,21,143,4,Affordable and clean storage
+55,25,78,5,Best storage I have used so far
+56,27,91,4,Good handling of produce
+57,29,110,2,High congestion during peak season
+58,31,56,5,Excellent service and availability
+59,33,119,4,Good value for money
+60,35,88,3,Decent but location is far
+61,36,72,4,Staff was cooperative
+62,38,154,5,Highly recommended
+63,40,95,4,Well maintained storage
+64,42,166,3,Average pricing
+65,44,101,4,Good cold chain management
+66,45,132,5,Very satisfied with service
+67,47,175,2,Overcrowded facility
+68,48,81,4,Good alternative storage
+69,50,190,5,Excellent long-term storage
+70,51,64,3,Okay experience
+71,52,209,4,Safe for potatoes
+72,53,134,2,High spoilage risk noticed
+73,54,118,5,Perfect for citrus crops
+74,55,77,4,Good storage capacity
+75,56,162,5,Very professional handling
+76,57,98,4,Storage conditions are good
+77,58,141,3,Average cleanliness
+78,59,155,4,Good temperature maintenance
+79,60,83,5,Apples stayed fresh
+80,61,176,4,Nice location and staff
+81,62,92,3,Okay but costly
+82,63,121,5,Excellent grain storage
+83,64,144,4,Good citrus preservation
+84,65,69,3,Distance is an issue
+85,66,184,2,Frequent power issues
+86,67,105,4,Good onion storage
+87,68,153,5,Highly reliable
+88,69,171,4,Well organized
+89,70,89,3,Moderate pricing
+90,71,160,5,Very good service
+91,72,99,4,Clean and efficient
+92,73,147,5,Maize stored safely
+93,74,126,3,Okay but slow service
+94,75,188,4,Grain quality preserved
+95,76,140,5,Apples remained fresh long
+96,77,211,4,Good onion storage
+97,78,173,3,Average distance
+98,79,85,5,Excellent citrus storage
+99,80,191,4,Potato quality maintained
+100,81,158,5,Best wheat storage
+101,82,202,4,Good potato handling
+102,83,133,5,Oranges stored perfectly
+103,84,214,3,Okay experience
+104,85,167,4,Maize storage is reliable
+105,86,71,5,Good grain storage
+106,87,182,4,Onions stored well
+107,88,120,5,Apples stayed fresh
+108,89,97,3,Average facility
+109,90,148,4,Good soy storage
+110,91,163,5,Very reliable service
+111,92,186,4,Maize quality preserved
+112,93,74,3,Okay pricing
+113,94,219,4,Good onion management
+114,95,128,5,Apples well preserved
+115,96,169,4,Good citrus storage
+116,97,193,3,Average service
+117,98,104,5,Soybean stored safely
+118,99,157,4,Well maintained
+119,100,221,5,Excellent service overall
+120,101,139,4,Good wheat storage
+121,102,172,5,Apple quality retained
+122,103,203,3,Average accessibility
+123,104,116,4,Soy storage was fine
+124,105,181,5,Good capacity management
+125,106,94,4,Apples stored properly
+126,107,165,5,Best grain storage
+127,108,131,3,Okay but congested
+128,109,187,4,Wheat quality good
+129,110,142,5,Very good service
+130,111,196,4,Apples fresh till delivery
+131,112,152,5,Soybean storage excellent
+132,113,174,3,Average experience
+133,114,199,4,Grain stored safely
+134,115,164,5,Highly reliable storage
+135,116,206,4,Good soy handling
+136,117,183,3,Moderate crowd
+137,118,127,5,Best storage for soy
+138,119,170,4,Maize preserved well
+139,120,145,5,Potatoes remained fresh
+140,121,189,4,Good overall experience
+141,145,387,4,Good citrus storage
+142,146,291,3,Potatoes ok but crowded
+143,147,340,5,Excellent apple quality
+144,148,225,3,Average tomato storage
+145,149,410,4,Good orange preservation
+146,150,260,5,Potatoes stayed fresh
+147,150,166,4,Good ventilation
+148,149,317,4,Clean facility
+149,148,333,3,Acceptable quality
+150,147,489,5,Highly recommended
